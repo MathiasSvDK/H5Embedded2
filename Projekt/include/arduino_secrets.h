@@ -1,2 +1,2 @@
-#define SECRET_SSID "SibirienAP"
-#define SECRET_PASS "Siberia51244"
+#define SECRET_SSID "GangsterRapperYo"
+#define SECRET_PASS "TeslaPassword"
