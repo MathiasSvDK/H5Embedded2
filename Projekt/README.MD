@@ -11,3 +11,19 @@ Vi har fået til opgave at lave et intelligent hus som kan styres via en skærm 
 
 ### Diagram
 TBA
+
+
+### Teknologi
+- MQTT
+- SPI
+- I2C
+
+
+### Hjemmesider
+- [MQTT Klient](https://mqttx.app/)
+- [Tingspeak, live data](https://thingspeak.com/)
+- [Shiftr](https://shiftr.io/)
+
+### Hardware
+- Arduino Mega 2560
+- MKRWiFi1010
